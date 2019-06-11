@@ -7,8 +7,7 @@
 //
 
 #import "XCLViewController.h"
-#import <XCLCategories/NSString+XCLAdd.h>
-#import <XCLCategories/UIColor+XCLAdd.h>
+#import <XCLCategorySDK/XCLConsts.h>
 
 @interface XCLViewController ()
 
