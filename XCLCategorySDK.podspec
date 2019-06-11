@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'XCLCategorySDK/Classes/**/*'
-  
+  s.vendored_frameworks = 'XCLCategorySDK/*.{framework}'
   # s.resource_bundles = {
   #   'XCLCategorySDK' => ['XCLCategorySDK/Assets/*.png']
   # }
